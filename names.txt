@@ -1,1 +1,2 @@
-hi
+My name is names file. I will store names in this file. 
+Ok, bye. 
