@@ -1,2 +1,2 @@
 this file contains names of hotels
-
+like Taj
